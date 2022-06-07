@@ -1,0 +1,1 @@
+Client에서 Server에 접속하면 Server에서 현재 시간을 보내고 Client에서 이를 받아 출력한다.
