@@ -1,0 +1,15 @@
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.csproj.AssemblyReference.cache
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.AssemblyInfoInputs.cache
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.AssemblyInfo.cs
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.csproj.CoreCompileInputs.cache
+D:\Document\TCT\Workspace\Base64\Base64\bin\Debug\net6.0\Base64.exe
+D:\Document\TCT\Workspace\Base64\Base64\bin\Debug\net6.0\Base64.deps.json
+D:\Document\TCT\Workspace\Base64\Base64\bin\Debug\net6.0\Base64.runtimeconfig.json
+D:\Document\TCT\Workspace\Base64\Base64\bin\Debug\net6.0\Base64.dll
+D:\Document\TCT\Workspace\Base64\Base64\bin\Debug\net6.0\Base64.pdb
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.dll
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\refint\Base64.dll
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.pdb
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\Base64.genruntimeconfig.cache
+D:\Document\TCT\Workspace\Base64\Base64\obj\Debug\net6.0\ref\Base64.dll

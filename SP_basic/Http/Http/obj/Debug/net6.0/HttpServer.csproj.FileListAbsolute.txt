@@ -1,0 +1,17 @@
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\HttpServer.exe
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\HttpServer.deps.json
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\HttpServer.dll
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\HttpServer.pdb
+D:\Document\TCT\Workspace\Http\Http\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.csproj.CopyComplete
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.dll
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\refint\HttpServer.dll
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.pdb
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+D:\Document\TCT\Workspace\Http\Http\obj\Debug\net6.0\ref\HttpServer.dll

@@ -1,0 +1,17 @@
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\HttpClient.exe
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\HttpClient.deps.json
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\HttpClient.runtimeconfig.json
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\HttpClient.dll
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\HttpClient.pdb
+D:\Document\TCT\Workspace\Http\HttpClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.csproj.AssemblyReference.cache
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfoInputs.cache
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfo.cs
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CoreCompileInputs.cache
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CopyComplete
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.dll
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\refint\HttpClient.dll
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.pdb
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\HttpClient.genruntimeconfig.cache
+D:\Document\TCT\Workspace\Http\HttpClient\obj\Debug\net6.0\ref\HttpClient.dll
