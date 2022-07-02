@@ -1,0 +1,14 @@
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.exe
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.deps.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.runtimeconfig.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.runtimeconfig.dev.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.dll
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Release\netcoreapp3.1\ExternProgram.pdb
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.AssemblyInfoInputs.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.AssemblyInfo.cs
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.csproj.CoreCompileInputs.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.dll
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.pdb
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.genruntimeconfig.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\obj\Release\netcoreapp3.1\ExternProgram.csproj.AssemblyReference.cache

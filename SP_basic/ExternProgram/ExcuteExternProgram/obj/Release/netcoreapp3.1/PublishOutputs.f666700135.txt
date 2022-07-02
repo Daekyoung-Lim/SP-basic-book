@@ -1,0 +1,5 @@
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Release\netcoreapp3.1\publish\ExcuteExternProgram.exe
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Release\netcoreapp3.1\publish\ExcuteExternProgram.dll
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Release\netcoreapp3.1\publish\ExcuteExternProgram.deps.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Release\netcoreapp3.1\publish\ExcuteExternProgram.runtimeconfig.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Release\netcoreapp3.1\publish\ExcuteExternProgram.pdb

@@ -1,0 +1,2 @@
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Debug\netcoreapp3.1\win-x64\publish\ExternProgram.pdb
+D:\Document\TCT\2022\workspace\ExternProgram\ExternProgram\bin\Debug\netcoreapp3.1\win-x64\publish\ExternProgram.exe

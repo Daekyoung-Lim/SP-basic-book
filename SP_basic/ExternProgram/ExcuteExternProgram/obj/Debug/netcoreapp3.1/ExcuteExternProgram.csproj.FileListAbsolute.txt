@@ -1,0 +1,14 @@
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.exe
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.deps.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.runtimeconfig.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.runtimeconfig.dev.json
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.dll
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\bin\Debug\netcoreapp3.1\ExcuteExternProgram.pdb
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.AssemblyInfoInputs.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.AssemblyInfo.cs
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.csproj.CoreCompileInputs.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.dll
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.pdb
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.genruntimeconfig.cache
+D:\Document\TCT\2022\workspace\ExternProgram\ExcuteExternProgram\obj\Debug\netcoreapp3.1\ExcuteExternProgram.csproj.AssemblyReference.cache
